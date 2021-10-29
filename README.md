@@ -2,5 +2,5 @@
 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
-Implemented using Spark Streaming
+Implemented using Apache Spark ML Pipeline
 
